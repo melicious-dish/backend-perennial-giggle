@@ -1,0 +1,22 @@
+{
+  "name": "plant-app",
+  "version": "1.0.0",
+  "description": "Ada Capstone C10",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melicious-dish/backend-perennial-giggle.git"
+  },
+  "author": "Melissa O'Hearn melissa.ohearn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melicious-dish/backend-perennial-giggle/issues"
+  },
+  "homepage": "https://github.com/melicious-dish/backend-perennial-giggle#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
